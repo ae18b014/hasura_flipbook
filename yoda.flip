@@ -1,0 +1,7 @@
+start
+01 05 img2/child.jpg  
+06 10 img2/adolescent.jpg
+11 15 img2/young-adulthood.jpg
+16 20 img2/adulthood.jpg
+21 25 combine 2 img2/old-age.jpg img2/old-age.jpg
+end
